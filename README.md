@@ -15,7 +15,7 @@ Cosas que se necesitan tener instaladas o configuradas previamente para utilizar
 En una terminal usar el siguiente comando
 
 ```
-git clone https://github.com/GeroCossio/TP1_.git
+git clone https://github.com/GeroCossio/TP2_.git
 ```
 
 ## Autor 👩‍💻
