@@ -11,7 +11,7 @@ Cosas que se necesitan tener instaladas o configuradas previamente para utilizar
 ## Herramientas 🔨
 
 - JavaScript
--Html
+- Html
 
 ## Instalación ⚙️
 
