@@ -1,6 +1,7 @@
 # TP Ejercitacion de JavaScript 🚀
 
-La idea de este trabajo practico es la ejercitacion de Js
+La idea de este trabajo practico es la ejercitacion de Js.
+
 Se dieron 17 ejercicios los cuales podian tener tres tipos de dificultades, aqui se realizaron 13 ejercicios.
 
 ## Pre-requisitos 📋
