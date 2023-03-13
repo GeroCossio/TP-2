@@ -4,6 +4,8 @@ La idea de este trabajo practico es la ejercitacion de Js.
 
 Se dieron 17 ejercicios los cuales podian tener tres tipos de dificultades, aqui se realizaron 13 ejercicios.
 
+(El ejercicio 2 no se guardo en el main pero esta en su dicha rama)
+
 ## Pre-requisitos 📋
 
 Cosas que se necesitan tener instaladas o configuradas previamente para utilizar el proyecto
