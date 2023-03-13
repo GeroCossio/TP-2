@@ -8,6 +8,10 @@ Cosas que se necesitan tener instaladas o configuradas previamente para utilizar
 
 - Visual
 
+## Herramientas 🔨
+
+- JavaScript
+-Html
 
 ## Instalación ⚙️
 
